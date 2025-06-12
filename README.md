@@ -20,7 +20,7 @@
 
 ## 📊 GitHub Stats
 
-![Eshlok's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Eshlok's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoeshlok&show_icons=true&theme=radical)
 
 ---
 
