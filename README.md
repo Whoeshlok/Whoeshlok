@@ -15,7 +15,7 @@
 ## 🚀 My Projects
 
 - [Feed Aria!!](https://whoeshlok.github.io/FeedAria/Feed-Aria!!%20%E2%9C%A81.html) - Aria is on a magical adventure! Help her catch as many treats as you can before time runs out. Ready to play?
-- [Rio The Shooter](https://whoeshlok.github.io/Rio-The-Shooter/) -
+- [Rio The Shooter](https://whoeshlok.github.io/Rio-The-Shooter/) - A space-themed shooting game built with HTML5, CSS3, and JavaScript. Blast your way through space as Rio and become the ultimate shooter!
 ---
 
 ## 📊 GitHub Stats
